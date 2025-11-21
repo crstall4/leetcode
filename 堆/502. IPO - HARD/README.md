@@ -1,3 +1,0 @@
-IPO
-IPO
-HARD

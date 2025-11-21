@@ -1,3 +1,0 @@
-两数之和
-Two Sum
-EASY
